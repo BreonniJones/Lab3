@@ -1,7 +1,7 @@
 package shapePack;
 
 public class Shape {
-    public void printShape() {
-        System.out.println("This is Shape");
+    public void calculateArea() {
+        System.out.println("Calculating area for Shape class");
     }
 }
